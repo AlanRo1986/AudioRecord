@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Recorder</string>
+    <string name="title_play">试听</string>
+    <string name="title_recorder">录音</string>
+    <string name="title_pause">暂停</string>
+    <string name="title_stop">停止</string>
+    <string name="title_save">保存</string>
+</resources>
